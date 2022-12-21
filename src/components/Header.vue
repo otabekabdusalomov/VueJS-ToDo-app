@@ -21,7 +21,6 @@ export default {
 }
 </script>
 
-
 <style>
   .site-header {
     display: flex;
